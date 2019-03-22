@@ -1,6 +1,6 @@
 {
   "name": "carbon-now-dir",
-  "version": "1.0.0",
+  "version": "0.9.0",
   "description": "Generate beautiful images of your code in files in the specified directory.",
   "main": "cli.js",
   "bin": {
