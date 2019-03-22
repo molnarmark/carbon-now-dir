@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![MIT License](https://img.shields.io/github/license/molnarmark/carbon-now-dir.svg)](https://github.com/molnarmark/carbon-now-dir/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://badgen.net/badge/Maintained%3F/Yes/green)](https://github.com/molnarmark/carbon-now-dir/graphs/commit-activity)
 
 **carbon-now-dir** wraps around [carbon-now-cli](https://github.com/mixn/carbon-now-cli) to generate beautiful images
