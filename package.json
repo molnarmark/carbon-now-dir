@@ -1,0 +1,31 @@
+{
+  "name": "carbon-now-dir",
+  "version": "1.0.0",
+  "description": "Generate beautiful images of your code in files in the specified directory.",
+  "main": "cli.js",
+  "bin": {
+    "carbon-now-dir": "cli.js"
+  },
+  "repository": "molnarmark/carbon-now-dir",
+  "keywords": [
+    "carbon",
+    "carbon-now",
+    "cli",
+    "screenshot",
+    "carbon-now-dir"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Molnar <molnarpw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "carbon-now-cli": "^1.4.0",
+    "chalk": "^2.4.2",
+    "meow": "^5.0.0",
+    "node-readfiles": "^0.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
