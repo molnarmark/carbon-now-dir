@@ -88,7 +88,7 @@ if (!targetDir) {
   const stringArgs = cliArgs.join(' ');
 
   for (const fileName of files) {
-    execSync(`node ./node_modules/carbon-now-cli/cli ${fileName} ${stringArgs}`, { stdio: 'inherit' });
+    execSync(`node ${__dirname}/node_modules/carbon-now-cli/cli ${fileName} ${stringArgs}`, { stdio: 'inherit' });
     console.log(green(`\nProcessed ${fileName}!\n`));
   }
 })();
